@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/courseware/!svn/ver/320/trunk/android/code/UnitConverterTest
+END
+default.properties
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/courseware/!svn/ver/320/trunk/android/code/UnitConverterTest/default.properties
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/courseware/!svn/ver/320/trunk/android/code/UnitConverterTest/.classpath
+END
+proguard.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/courseware/!svn/ver/320/trunk/android/code/UnitConverterTest/proguard.cfg
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/courseware/!svn/ver/320/trunk/android/code/UnitConverterTest/.project
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/courseware/!svn/ver/320/trunk/android/code/UnitConverterTest/AndroidManifest.xml
+END
