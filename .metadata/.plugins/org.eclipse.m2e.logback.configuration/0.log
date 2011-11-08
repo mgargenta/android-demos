@@ -72,3 +72,5 @@ Caused by: java.nio.channels.UnresolvedAddressException: null
 	... 13 common frames omitted
 2011-11-08 13:12:45,049 [Worker-6] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updating index for repository: central|http://repo1.maven.org/maven2
 2011-11-08 13:12:52,238 [Worker-6] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updated index for repository: central|http://repo1.maven.org/maven2 in 7193 ms
+2011-11-08 14:30:26,862 [Worker-14] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updating index for repository: central|http://repo1.maven.org/maven2
+2011-11-08 14:30:40,458 [Worker-14] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updated index for repository: central|http://repo1.maven.org/maven2 in 13642 ms

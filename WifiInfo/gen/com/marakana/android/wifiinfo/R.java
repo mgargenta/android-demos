@@ -14,7 +14,7 @@ public final class R {
         public static final int icon=0x7f020000;
     }
     public static final class id {
-        public static final int button1=0x7f050000;
+        public static final int buttonRefresh=0x7f050000;
         public static final int out=0x7f050001;
     }
     public static final class layout {
