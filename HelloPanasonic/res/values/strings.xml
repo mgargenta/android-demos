@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="hello">Hello World, HelloPanasonicActivity!</string>
-    <string name="app_name">HelloPanasonic</string>
-    <string name="title">Toughpad Control Center</string>
-</resources>
