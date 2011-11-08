@@ -1,0 +1,6 @@
+#Thu Oct 13 04:56:40 PDT 2011
+ColorsAndFontsPreferencePage.expandedCategories=Torg.eclipse.ui.workbenchMisc\tTorg.eclipse.jdt.ui.presentation
+PLUGINS_NOT_ACTIVATED_ON_STARTUP=org.eclipse.m2e.discovery;
+org.eclipse.jface.textfont=1|Monaco|18.0|0|COCOA|1|Monaco;
+eclipse.preferences.version=1
+ColorsAndFontsPreferencePage.selectedElement=Forg.eclipse.jdt.ui.editors.textfont
